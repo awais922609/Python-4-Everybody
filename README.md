@@ -6,35 +6,6 @@ Welcome to the **Python for Everybody Specialization** repository! This reposito
 
 The Python for Everybody Specialization is a series of courses offered by the University of Michigan on Coursera. It aims to teach the basics of programming using Python, covering fundamental concepts such as data structures, networked application program interfaces, and databases, using the Python programming language.
 
-## Repository Structure
-
-The repository is organized as follows:
-
-```
-├── Course1
-│   ├── Week1
-│   │   ├── assignment1.py
-│   │   └── solution1.py
-│   ├── Week2
-│   │   ├── assignment2.py
-│   │   └── solution2.py
-│   └── ...
-├── Course2
-│   ├── Week1
-│   │   ├── assignment1.py
-│   │   └── solution1.py
-│   ├── Week2
-│   │   ├── assignment2.py
-│   │   └── solution2.py
-│   └── ...
-├── Course3
-│   └── ...
-└── Course4
-    └── ...
-```
-
-Each course folder contains subfolders for each week of the course. Each week's folder contains the assignments and their corresponding solutions.
-
 ## Courses Covered
 
 1. **Course 1: Programming for Everybody (Getting Started with Python)**
